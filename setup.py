@@ -4,7 +4,7 @@ setup(
     name = 'ycho_analyze',
     version = '0.0.1',
     description = 'ycho data analyze library',
-    url = 'https://github.com/ycho-kp/the-very-waffle',
+    url = 'https://github.com/ycho-kp/the-very-waffle.git',
     author = 'choyoungju',
     author_email = 'plplkj16@korea.ac.kr',
     license = 'ycho',
