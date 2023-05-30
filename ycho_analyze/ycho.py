@@ -7,6 +7,10 @@ def print_ycho(msg):
     print(f"안녕하세요? 조영주입니다. {msg}")
 
 class Analyzer:
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import pandas as pd
+    from scipy.optimize import curve_fit
     def __init__(self, name):
         # name of this class. normally set with run number, e.g. 'run1'
         self.name = name 
